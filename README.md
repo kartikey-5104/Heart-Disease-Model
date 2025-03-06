@@ -1,59 +1,59 @@
-❤️ Heart Disease Prediction Web App 🏥
+# ❤️ Heart Disease Prediction Web App 🏥
 
-📌 Overview
-
+## 📌 Overview
 This project is a web-based application for predicting heart disease using a machine learning model. It provides a user-friendly interface for inputting patient data and receiving predictions.
 
-📂 Project Structure
+## 📂 Project Structure
 
-📝 app.py - Main script for running the web application.
+📝 **app.py** - Main script for running the web application.
 
-🤖 heart_disease_model.pkl - Pre-trained machine learning model.
+🤖 **heart_disease_model.pkl** - Pre-trained machine learning model.
 
-🎨 static/ - Contains CSS, JavaScript, and other static assets.
+🎨 **static/** - Contains CSS, JavaScript, and other static assets.
 
-🖥️ templates/ - HTML templates for rendering web pages.
+🖥️ **templates/** - HTML templates for rendering web pages.
 
-📦 .dist/ - Directory related to distribution or deployment.
+📦 **.dist/** - Directory related to distribution or deployment.
 
-⚙️ Installation
+## ⚙️ Installation
 
-Prerequisites
-
+### Prerequisites
 Ensure you have Python installed along with the required dependencies.
 
-Steps
+### Steps
 
-📥 Clone the repository:
-
+📥 **Clone the repository:**
+```bash
 git clone https://github.com/your-username/heart-disease-prediction.git
 cd heart-disease-prediction
+```
 
-📦 Install dependencies:
-
+📦 **Install dependencies:**
+```bash
 pip install -r requirements.txt
+```
 
-▶️ Run the application:
-
+▶️ **Run the application:**
+```bash
 python app.py
+```
 
-🌍 Open your browser and go to http://127.0.0.1:5000/.
+🌍 Open your browser and go to `http://127.0.0.1:5000/`.
 
-🛠️ Usage
+## 🛠️ Usage
 
-🏥 Enter patient health details in the web form.
+🏥 **Enter patient health details** in the web form.
 
-🎯 Click the Predict button.
+🎯 **Click the Predict button**.
 
-📊 The model will return a prediction indicating the likelihood of heart disease.
+📊 **The model will return a prediction** indicating the likelihood of heart disease.
 
-🧠 Model Details
+## 🧠 Model Details
 
-The model is stored in heart_disease_model.pkl.
+- The model is stored in **heart_disease_model.pkl**.
+- It is trained using machine learning techniques to classify heart disease presence.
 
-It is trained using machine learning techniques to classify heart disease presence.
-
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 🎨 Enhance UI/UX.
 
@@ -61,15 +61,17 @@ It is trained using machine learning techniques to classify heart disease presen
 
 ☁️ Deploy to a cloud server for online accessibility.
 
-📝 License
+## 📝 License
+This project is licensed under the MIT License. See `LICENSE` for details.
 
-This project is licensed under the MIT License. See LICENSE for details.
+## 🙌 Acknowledgments
 
-🙌 Acknowledgments
+📚 **UCI Machine Learning Repository**
 
-📚 UCI Machine Learning Repository
+🏗️ **Flask for web framework**
 
-🏗️ Flask for web framework
+🔬 **Scikit-Learn for model training**
 
-🔬 Scikit-Learn for model training
+## 👤 Author
+- 🔗 LinkedIn: [Kartikey](https://www.linkedin.com/in/kartikey05/)
 
