@@ -4,7 +4,7 @@
 
 This repository contains a machine learning project designed to analyze and predict heart disease based on medical attributes such as chest pain and heart rate. The project involves exploratory data analysis, data preprocessing, model training, evaluation, and deployment.
 
-![Heart Disease Predictor](Screenshot 2025-03-06 at 18.55.13.png)
+![Heart Disease Predictor](Screenshot%202025-03-06%20at%2018.55.13.png)
 
 *Figure 1: Visualizing the heart disease prediction process*
 
@@ -90,3 +90,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## 👤 Author
 
 - 🔗 LinkedIn: [Kartikey](https://www.linkedin.com/in/kartikey05/)
+
